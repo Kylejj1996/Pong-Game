@@ -9,7 +9,7 @@ A basic Pong game built using **HTML**, **CSS**, and **JavaScript**. Inspired by
 
 ## 📷 Preview
 
-![Pong Game Screenshot](gifs/pong.gif) 
+![Pong Game Screenshot](Gifs/pong.gif) 
 
 ## 🚀 How to Play
 1. Open `index.html` in your browser.
